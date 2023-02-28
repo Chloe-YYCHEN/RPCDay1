@@ -1,6 +1,6 @@
-package service;
+package com.chloeCN.V1.service;
 
-import common.User;
+import com.chloeCN.V1.common.User;
 
 public interface UserService {
     User getUserByUserId(Integer id);

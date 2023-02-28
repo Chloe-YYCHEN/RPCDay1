@@ -1,4 +1,4 @@
-package common;
+package com.chloeCN.V2.common;
 
 import lombok.Builder;
 import lombok.Data;

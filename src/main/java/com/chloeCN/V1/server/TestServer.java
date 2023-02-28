@@ -1,8 +1,8 @@
-package server;
+package com.chloeCN.V1.server;
 
-import service.BlogService;
-import service.RPCServer;
-import service.UserService;
+import com.chloeCN.V1.service.BlogService;
+import com.chloeCN.V1.service.RPCServer;
+import com.chloeCN.V1.service.UserService;
 
 public class TestServer {
     public static void main(String[] args) {

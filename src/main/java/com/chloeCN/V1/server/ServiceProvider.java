@@ -1,4 +1,4 @@
-package server;
+package com.chloeCN.V1.server;
 
 import java.util.HashMap;
 import java.util.Map;

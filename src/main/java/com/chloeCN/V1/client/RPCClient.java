@@ -1,9 +1,9 @@
-package client;
+package com.chloeCN.V1.client;
 
-import common.Blog;
-import common.User;
-import service.BlogService;
-import service.UserService;
+import com.chloeCN.V1.common.Blog;
+import com.chloeCN.V1.common.User;
+import com.chloeCN.V1.service.BlogService;
+import com.chloeCN.V1.service.UserService;
 
 public class RPCClient {
     public static void main(String[] args) {

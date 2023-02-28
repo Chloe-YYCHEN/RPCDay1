@@ -1,7 +1,7 @@
-package server;
+package com.chloeCN.V1.server;
 
-import common.Blog;
-import service.BlogService;
+import com.chloeCN.V1.common.Blog;
+import com.chloeCN.V1.service.BlogService;
 
 public class BlogServiceImpl implements BlogService {
 

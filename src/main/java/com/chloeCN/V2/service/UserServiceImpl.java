@@ -1,7 +1,7 @@
-package server;
+package com.chloeCN.V2.service;
 
-import common.User;
-import service.UserService;
+import com.chloeCN.V1.common.User;
+import com.chloeCN.V1.service.UserService;
 
 public class UserServiceImpl implements UserService {
     @Override

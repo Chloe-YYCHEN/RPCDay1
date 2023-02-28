@@ -1,7 +1,7 @@
-package server;
+package com.chloeCN.V1.server;
 
-import common.RPCRequest;
-import common.RPCResponse;
+import com.chloeCN.V1.common.RPCRequest;
+import com.chloeCN.V1.common.RPCResponse;
 import lombok.AllArgsConstructor;
 
 import java.io.IOException;
